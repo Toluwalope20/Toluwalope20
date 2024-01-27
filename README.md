@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Toluwalope20
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Programming languages and major in computer science
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently studying to become a cybersecurity analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
