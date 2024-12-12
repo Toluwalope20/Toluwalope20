@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Toluwalope20
+- 👋 Hi, I’m Toluwalope
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently studying to become a cybersecurity analyst
 - 💞️ I’m looking to collaborate on ...
